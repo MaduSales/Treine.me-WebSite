@@ -13,7 +13,6 @@ Landing page de um website de treino em casa criado durante o desafio Explorer F
 ## Tecnologias Usadas:
 - HTML;
 - CSS;
-- JavaScript;
 <br>
 
 
